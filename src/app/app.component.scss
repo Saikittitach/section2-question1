@@ -1,0 +1,14 @@
+.left-side {
+  width: 200px;
+  height: 100vh;
+  border-right: 1px solid #000;
+}
+.center {
+  width: calc(100% - 500px);
+  height: 100vh;
+}
+.right-side {
+  width: 300px;
+  height: 100vh;
+  border-left: 1px solid #000;
+}
